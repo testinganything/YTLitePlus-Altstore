@@ -110,7 +110,7 @@ def update_json_file(json_file, latest_release):
         "notify": True,
         "tintColor": "000000",
         "title": f"{full_version} - YTLitePlus  {date_string}",
-        "url": f"https://github.com/Balackburn/YTLitePlus/releases/tag/{tag}"
+        "url": f"https://github.com/testinganything/YTLitePlus/releases/tag/{tag}"
     }
 
     news_entry_exists = any(item["identifier"] == news_identifier for item in data["news"])
@@ -126,7 +126,7 @@ def update_json_file(json_file, latest_release):
         raise
 
 def main():
-    repo_url = "YTLitePlus/YTLitePlus"
+    repo_url = "testinganything/YTLitePlus"
     json_file = "apps.json"
     keyword = "YTLitePlus"
 
