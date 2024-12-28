@@ -5,7 +5,7 @@
 [![Platform](http://img.shields.io/badge/platform-iOS/iPadOS/macOS-black.svg)](https://developer.apple.com/iphone/index.action)
 ![GitHub issues](https://img.shields.io/github/issues-raw/YTLitePlus/YTLitePlus-Altstore?color=black&)
 
-<a href="https://tinyurl.com/YTLiteAltstore"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Buttons/Altstore/Altstore.png" width="200"></a>
+<a href="sidestore://source/?url=https://raw.githubusercontent.com/testinganything/YTLitePlus-Altstore/refs/heads/main/apps.json"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Buttons/Altstore/Altstore.png" width="200"></a>
 &nbsp;
 <a href="https://altsource.by.lao.sb/browse/?source=https%3A%2F%2Fraw.githubusercontent.com%2Ftestinganything%2FYTLitePlus-Altstore%2Fmain%2Fapps.json"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Buttons/Altstore/altsource.by.lao.sb.png"
  width="200"></a>
